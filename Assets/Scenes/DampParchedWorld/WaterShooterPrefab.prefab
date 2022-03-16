@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2177186808049348892}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: WaterShooterPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -93,7 +93,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 9004095928488345746, guid: b7f064e48c594da45bb8ee4e44086a93, type: 3}
+  - {fileID: 2100000, guid: 093b8460bff837e41bf64ba390b5489f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -174,7 +174,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -7259089600071102301, guid: b7f064e48c594da45bb8ee4e44086a93, type: 3}
+  - {fileID: 2100000, guid: 093b8460bff837e41bf64ba390b5489f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -255,7 +255,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 3252696808679341938, guid: b7f064e48c594da45bb8ee4e44086a93, type: 3}
+  - {fileID: 2100000, guid: 093b8460bff837e41bf64ba390b5489f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -336,7 +336,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 4458638977111630518, guid: b7f064e48c594da45bb8ee4e44086a93, type: 3}
+  - {fileID: 2100000, guid: 093b8460bff837e41bf64ba390b5489f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
